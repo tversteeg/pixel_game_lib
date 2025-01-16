@@ -1,6 +1,6 @@
 [package]
 name = "chuot-macros"
-version = "0.2.3"
+version = "0.2.4"
 edition = "2021"
 authors = ["Thomas Versteeg <t@versteeg.email>"]
 license = "AGPL-3.0"
